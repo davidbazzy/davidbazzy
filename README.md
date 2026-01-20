@@ -29,20 +29,22 @@ I’ve been **crypto-native since 2017** as an investor and trader, and more rec
 My interest in digital assets comes from the **speed, transparency, and accessibility** of blockchain-based systems — and how they reshape execution, settlement, and market structure.
 
 Current focus:
-- **Solana ecosystem**  
+- **Solana ecosystem** - building trading analysis tool for memecoin trading (Solana Wallet Tracker)  
 - Applying OMS and execution concepts to crypto markets
 
 ---
 
 ## 🚀 Featured Project
 
-### 🔹 Solana Wallet Viewer (Java)
+### 🔹 Solana Wallet Tracker (Java)
 
-A multithreaded Java desktop application that:
+A **multithreaded** Java desktop application that:
 - Aggregates token balances across multiple Solana wallets  
-- Fetches token metadata and market pricing via REST  
-- Uses **batching and concurrency** to manage API rate limits  
-- c
+- Fetches token metadata and market pricing via **REST**  
+- Uses **batching** to manage API rate limits  
+- Backend data persistence with **PostgreSQL**, leveraging caching to reduce load times and improve data 
+retrieval performance 
+
 
 ---
 
