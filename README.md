@@ -1,18 +1,8 @@
 # 👋 Hi, I’m David
 
-I’m a **Backend Trading & Execution Engineer** with experience building **high-throughput Order Management Systems (OMS)** and real-time trading infrastructure in Java.
+I’m a **Backend Engineer** with experience building **high-throughput Order Management Systems (OMS)** and **Risk Reporting Tools**.
 
-
-
-I’m currently focused on applying proven **TradFi execution and market structure patterns** to **institutional crypto infrastructure**, particularly within the **Solana ecosystem**.
-
----
-
-## 🧠 What I Specialize In
-
-- Execution engines & OMS platforms    
-- Real-time messaging & pub/sub systems  
-- Bridging TradFi execution models into crypto  
+I'm currently focused on bridging **TradFi and crypto infrastructure**: applying **execution and market structure patterns** to **institutional crypto platforms** (particularly **Solana**), and exploring how **blockchain-native concepts** like **instant settlement** and **automated reconciliation** can transform **traditional post-trade operations**
 
 ---
 
