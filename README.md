@@ -42,7 +42,7 @@ A backend search API supporting unified search across clients and their document
 ### 🔹 [Order Book](https://github.com/davidbazzy/OrderBook)
 `Java`
 
-A Java implementation of an order book engine supporting limit and iceberg order types. 
+A Java implementation of a simple single threaded order book engine supporting limit and iceberg order types.
 
 `limit orders` `iceberg orders` `market microstructure`
 
