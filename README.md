@@ -11,7 +11,7 @@ Professionally, I build and extend **Order Management Systems (OMS)** within equ
 
 I’ve been **crypto-native since 2017** as an investor and trader, and more recently as a **builder**.
 
-My interest in digital assets comes from the **speed, transparency, and accessibility** of blockchain-based systems and how they reshape execution, settlement, and market structure.
+My interest in digital assets comes from the **speed, transparency, and accessibility** of blockchain-based systems and how they reshape execution, settlement, and market structure. Key chains I'm primarily focused on at the moment are Solana & Hyperliquid (perps + HLP-3). 
 
 ## Interests
 
